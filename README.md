@@ -28,7 +28,7 @@ I specialize in:
 I enjoy solving complex engineering problems and transforming ideas into scalable production systems.
 
 <p align="center">
-  <img src="https://github.com/rjbowie0601/rjbowie0601-rm/blob/main/ChatGPT Image May 24, 2026, 09_48_19 AM.png" />
+  <img src="https://github.com/rjbowie0601/rjbowie0601-rm/blob/main/ChatGPT Image May 24, 2026, 10_59_52 AM.png" />
 </p>
 
 🧠 Core Expertise
