@@ -8,7 +8,9 @@
  <img src="https://img.shields.io/badge/Experience-10%2B%20Years-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Backend-ASP.NET%20Core-success?style=for-the-badge"/> <img src="https://img.shields.io/badge/Python-Data%20Engineering-yellow?style=for-the-badge"/> <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/Architecture-Microservices-purple?style=for-the-badge"/> </p>
 💡 “Building scalable systems with clean architecture, cloud-native engineering, and production-ready solutions.”
 </div>
-
+<p align="right">
+  <img src="https://github.com/rjbowie0601/rjbowie0601-rm/blob/main/ChatGPT%20Image%20May%2024%2C%202026%2C%2009_48_19%20AM.png" />
+</p>
 🔥 About Me
 
 I’m a Senior Software Engineer with over 10 years of experience designing, developing, and scaling enterprise-grade applications across backend systems, distributed architectures, cloud infrastructure, and real-time platforms.
@@ -24,6 +26,10 @@ I specialize in:
 🚀 Scalable Distributed Systems
 
 I enjoy solving complex engineering problems and transforming ideas into scalable production systems.
+
+<p align="center">
+  <img src="https://github.com/rjbowie0601/rjbowie0601-rm/blob/main/ChatGPT%20Image%20May%2024%2C%202026%2C%2009_48_19%20AM.png" />
+</p>
 
 🧠 Core Expertise
 Backend Engineering:
