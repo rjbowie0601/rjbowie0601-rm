@@ -1,11 +1,11 @@
-<p align="center" style="font-size:20px">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer;Full+Stack+Developer;Cloud+Architecture+Engineer;AI+Integrated+Systems+Developer;Backend+%26+Microservices+Specialist" />
-</p>
+
 
 <div align="center">
 🚀 ROBERT JACKSON BOWIE
-Senior Software Engineer | Backend Architect | Cloud & DevOps Engineer
-<img src="./a_digital_infographic_infographic_features_robert.png" alt="Robert Jackson Bowie Banner" width="100%"/> <p align="center"> <img src="https://img.shields.io/badge/Experience-10%2B%20Years-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Backend-ASP.NET%20Core-success?style=for-the-badge"/> <img src="https://img.shields.io/badge/Python-Data%20Engineering-yellow?style=for-the-badge"/> <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/Architecture-Microservices-purple?style=for-the-badge"/> </p>
+<p align="center" style="font-size:20px">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer;Full+Stack+Developer;Cloud+Architecture+Engineer;AI+Integrated+Systems+Developer;Backend+%26+Microservices+Specialist" />
+</p>
+ <img src="https://img.shields.io/badge/Experience-10%2B%20Years-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Backend-ASP.NET%20Core-success?style=for-the-badge"/> <img src="https://img.shields.io/badge/Python-Data%20Engineering-yellow?style=for-the-badge"/> <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/Architecture-Microservices-purple?style=for-the-badge"/> </p>
 💡 “Building scalable systems with clean architecture, cloud-native engineering, and production-ready solutions.”
 </div>
 
