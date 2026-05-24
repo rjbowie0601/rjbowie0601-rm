@@ -9,7 +9,7 @@
 💡 “Building scalable systems with clean architecture, cloud-native engineering, and production-ready solutions.”
 </div>
 <p align="right">
-  <img src="https://github.com/rjbowie0601/rjbowie0601-rm/blob/main/ChatGPT%20Image%20May%2024%2C%202026%2C%2009_48_19%20AM.png" />
+  <img src="https://github.com/rjbowie0601/rjbowie0601-rm/blob/main/JXA0.gif" />
 </p>
 🔥 About Me
 
