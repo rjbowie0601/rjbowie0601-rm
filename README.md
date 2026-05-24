@@ -2,42 +2,201 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer;Full+Stack+Developer;Cloud+Architecture+Engineer;AI+Integrated+Systems+Developer;Backend+%26+Microservices+Specialist" />
 </p>
 
-# 👨‍💻 About Me
+<div align="center">
+🚀 ROBERT JACKSON BOWIE
+Senior Software Engineer | Backend Architect | Cloud & DevOps Engineer
+<img src="./a_digital_infographic_infographic_features_robert.png" alt="Robert Jackson Bowie Banner" width="100%"/> <p align="center"> <img src="https://img.shields.io/badge/Experience-10%2B%20Years-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Backend-ASP.NET%20Core-success?style=for-the-badge"/> <img src="https://img.shields.io/badge/Python-Data%20Engineering-yellow?style=for-the-badge"/> <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/Architecture-Microservices-purple?style=for-the-badge"/> </p>
+💡 “Building scalable systems with clean architecture, cloud-native engineering, and production-ready solutions.”
+</div>
 
-I'm a passionate Senior Software Engineer with 9+ years of experience designing, developing, and delivering scalable enterprise applications, cloud-native solutions, and high-performance distributed systems.
+🔥 About Me
 
-My expertise spans full-stack development, cloud architecture, microservices, DevOps, and modern software engineering practices. I enjoy transforming complex business requirements into reliable, maintainable, and innovative technology solutions.
+I’m a Senior Software Engineer with over 10 years of experience designing, developing, and scaling enterprise-grade applications across backend systems, distributed architectures, cloud infrastructure, and real-time platforms.
 
-### 🚀 What I Do
+I specialize in:
 
-- Design and develop enterprise-grade software applications
-- Build scalable RESTful APIs and microservices architectures
-- Architect cloud-native solutions on AWS, Azure, and GCP
-- Implement CI/CD pipelines and DevOps automation
-- Optimize application performance, scalability, and reliability
-- Lead technical initiatives and mentor engineering teams
-- Explore emerging technologies, AI integrations, and modern development practices
+⚙️ Backend Engineering
+☁️ Cloud & DevOps
+🧠 System Architecture
+🔗 API & Microservices Design
+📈 Performance Optimization
+🛡 Security & Reliability
+🚀 Scalable Distributed Systems
 
-### 💡 Core Principles
+I enjoy solving complex engineering problems and transforming ideas into scalable production systems.
 
-✔ Clean Code  
-✔ Scalable Architecture  
-✔ Security First  
-✔ Performance Optimization  
-✔ Continuous Learning  
-✔ Business-Driven Solutions
+🧠 Core Expertise
+Backend Engineering:
+  - ASP.NET Core
+  - Python
+  - Java
+  - Node.js
+  - Spring Boot
 
-### 🌎 Areas of Expertise
+Frontend Integration:
+  - Angular
+  - React
+  - Next.js
+  - Vue.js
 
-- Full Stack Development
-- Backend Engineering
-- Cloud Architecture
-- Distributed Systems
-- API Design & Integration
-- Database Design & Optimization
-- DevOps & Infrastructure Automation
-- Software Architecture & System Design
+Cloud Platforms:
+  - AWS
+  - Azure
+  - GCP
 
-### 🎯 Mission
+DevOps & Infrastructure:
+  - Docker
+  - Kubernetes
+  - Terraform
+  - Jenkins
+  - GitLab CI/CD
 
-To build innovative, scalable, and impactful software solutions that help businesses grow while delivering exceptional user experiences.
+Databases:
+  - PostgreSQL
+  - SQL Server
+  - MongoDB
+  - Redis
+  - MySQL
+
+Architecture:
+  - Microservices
+  - Event-Driven Systems
+  - Distributed Systems
+  - API Gateway
+  - CQRS
+  - Scalable Design
+⚡ Tech Stack
+👨‍💻 Languages
+<p> <img src="https://skillicons.dev/icons?i=cs,python,java,js,ts,bash" /> </p>
+🧩 Frameworks & Libraries
+<p> <img src="https://skillicons.dev/icons?i=dotnet,spring,django,flask,nodejs,express,react,angular,nextjs,vue" /> </p>
+☁️ Cloud & DevOps
+<p> <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,gitlab" /> </p>
+🗄 Databases & Messaging
+<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka" /> </p>
+🔧 Tools & Platforms
+<p> <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,visualstudio,idea,linux" /> </p>
+🏗 Architecture Focus
+Client Apps
+    ↓
+API Gateway
+    ↓
+Microservices Layer
+    ↓
+Message Broker (Kafka / RabbitMQ)
+    ↓
+Distributed Databases
+    ↓
+Cloud Infrastructure
+Expertise Includes
+REST APIs
+GraphQL
+gRPC
+WebSockets
+Real-Time Systems
+Event-Driven Architecture
+CQRS & Async Processing
+Distributed Caching
+Containerized Deployments
+🚀 Professional Experience
+🟦 Apexoft — Software Engineer
+
+📅 Apr 2025 – Apr 2026
+
+Built scalable backend systems using ASP.NET Core & Angular
+Designed RESTful APIs and service-oriented architectures
+Optimized PostgreSQL and SQL Server performance
+Implemented SignalR & WebSocket real-time systems
+Improved CI/CD pipelines with Docker & Jenkins
+Integrated OAuth2 & JWT authentication systems
+🟨 Dell — Software Engineer
+
+📅 May 2022 – Mar 2025
+
+Developed enterprise systems using Spring Boot & Django
+Built scalable microservices architectures
+Implemented Celery-based async pipelines
+Optimized Redis caching and distributed systems
+Supported AWS cloud deployments
+Automated deployments using GitLab CI/CD
+🟩 Gartner — Software Engineer
+
+📅 Jan 2019 – Feb 2022
+
+Developed full-stack enterprise applications
+Created real-time WebSocket communication systems
+Built scalable REST APIs
+Improved SQL Server & MongoDB performance
+Delivered responsive Angular-based UIs
+🟪 LSE — Software Engineer
+
+📅 Oct 2017 – Apr 2018
+
+Developed ASP.NET + Angular web applications
+Integrated third-party APIs and payment systems
+Optimized SQL Server queries and indexing
+Implemented MVC & Repository patterns
+📈 Engineering Principles
+<div align="center">
+Principle	Focus
+🧹 Clean Code	Maintainable Systems
+⚡ Performance	Fast & Reliable APIs
+☁️ Scalability	Cloud-Native Architecture
+🔒 Security	OAuth2, JWT, TLS
+🧪 Testing	TDD & Automation
+🚀 DevOps	CI/CD & Infrastructure as Code
+</div>
+🧰 DevOps & Cloud
+Containerization:
+  - Docker
+  - Kubernetes
+  - ECS
+  - AKS
+
+CI/CD:
+  - Jenkins
+  - GitLab CI
+  - GitHub Actions
+
+Infrastructure:
+  - Terraform
+  - Cloud Automation
+  - Monitoring & Logging
+
+Monitoring:
+  - ELK Stack
+  - Prometheus
+  - Grafana
+🛡 Security Expertise
+JWT Authentication
+OAuth2 Authorization
+SSO Integration
+TLS/SSL
+API Security
+Secure CI/CD Practices
+Security Auditing
+Penetration Testing Awareness
+📚 Education
+
+🎓 Texas State University
+Bachelor of Business Administration
+Minor in Mathematics
+
+🌍 Connect With Me
+<p align="center"> <a href="https://github.com/robert14108"> <img src="https://img.shields.io/badge/GitHub-robert14108-181717?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/in/robert-jackson-bowie-689a90130"> <img src="https://img.shields.io/badge/LinkedIn-Robert%20Jackson%20Bowie-blue?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:rjbowie@zohomail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/> </a> </p>
+📊 GitHub Stats
+<div align="center">
+Backend Engineering  ████████████████████ 95%
+Cloud & DevOps       ██████████████████░ 90%
+System Architecture  █████████████████░░ 88%
+Frontend Integration ██████████████░░░░ 75%
+Leadership           ███████████████░░░ 80%
+</div>
+🚀 Mission
+
+“Designing scalable systems, building impactful solutions, and continuously improving through engineering excellence.”
+
+<div align="center">
+⭐ Thanks for Visiting!
+“Always Learning. Always Building. Always Improving.”
+</div>
